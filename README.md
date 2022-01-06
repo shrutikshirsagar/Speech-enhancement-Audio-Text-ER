@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 #### In this pipleine, Step 1: we first get the enhancement audio files from the pretrained models from the speechbrain
 #### Step 2: we get the speech transcripts and BERT feature based on the transcripts
