@@ -1,4 +1,4 @@
-Chnage the path and run enh_pipeline.sh script
+
 
 #### In this pipleine, Step 1: we first get the enhancement audio files from the pretrained models from the speechbrain
 #### Step 2: we get the speech transcripts and BERT feature based on the transcripts
@@ -35,3 +35,5 @@ conda activate ASR_BERT
 cd /home/amrgaballah/Desktop/exp_1/SER/audio_text/
 python text_audio_train.py
 python text_audio_test_all.py
+
+Chnage the path and run enh_pipeline.sh script
